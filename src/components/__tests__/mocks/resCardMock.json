@@ -1,0 +1,78 @@
+{
+    "id": "390057",
+    "name": "NH1 Bowls - Highway To North",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/24/c0db57b4-bada-434b-a0d7-4d6031b657fd_390057.JPG",
+    "locality": "6th Block",
+    "areaName": "Koramangala",
+    "costForTwo": "₹250 for two",
+    "cuisines": [
+        "North Indian",
+        "Punjabi",
+        "Home Food"
+    ],
+    "avgRating": 4.7,
+    "parentId": "22452",
+    "avgRatingString": "4.7",
+    "totalRatingsString": "879",
+    "sla": {
+        "deliveryTime": 15,
+        "lastMileTravel": 0.6,
+        "serviceability": "SERVICEABLE",
+        "slaString": "10-20 mins",
+        "lastMileTravelString": "0.6 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2024-11-07 02:00:00" 
+    },
+    "badges": {
+        "textExtendedBadges": [
+            {
+                "iconId": "guiltfree/GF_Logo_android_3x",
+                "shortDescription": "options available",
+                "fontColor": "#7E808C"
+            }
+        ]
+    },
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {
+                "badgeObject": [
+                    {
+                        "attributes": {
+                            "description": "",
+                            "fontColor": "#7E808C",
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "₹100 OFF",
+        "subHeader": "ABOVE ₹299",
+        "discountTag": "FLAT DEAL"
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {},
+    "externalRatings": {
+        "aggregatedRating": {
+            "rating": "--"
+        }
+    },
+    "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+}

@@ -1,4 +1,8 @@
-body {
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +14,86 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} */
+
+
+/* .logo{
+  width: 100px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+ 
+.header{
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+padding-bottom: 10px;}
+
+.nav-items>ul{
+display:flex;
+list-style-type:none ;
+}
+
+.nav-items>ul>li{
+   margin: 15px;
+  }
+.search{
+  padding: 10px;
+}
+.res-container{
+  display:flex;
+  flex-wrap:wrap;
+  
+}
+.res-card{
+  margin: 5px;
+  
+  width: 200px;
+  height: 475px;
+  padding: 5px;
+  max-width: 200px;
+  min-width: 200px;
+
+}
+.res-card:hover{
+  border: 1px solid black;
+  cursor: pointer;
+}
+.res-logo{
+  width: 100%;
+  height: 200px;
+}
+.login{
+  margin-top: 15px;
+  height: 20px;
+  border-radius: 5px;
+  margin-right: 10px;
+  margin-left: 15px;
+} */
+/* .res-name{
+   margin: auto;
+   width: 50%;
+   border: 3px solid black;
+   text-align: center;
+   box-shadow: 0px 10px 10px;
+}
+.res-description{
+  border: 1px solid black;
+  margin: 25px;
+  border-radius: 25px;
+  text-align: center;
+} */
+.res-item{ 
+  margin: 25px;
+  border-radius: 25px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+
+}
+.item-pic{
+  width: 25%;
+  margin: 20px;
+  border-radius: 50px;
 }
